@@ -1,5 +1,5 @@
 # Packages:
-- I used anaconda for my environment but also generated a `requirements.txt` file that you can use with and without anaconda
+- I used anaconda for my environment but also generated a `requirements.txt` file that you can
 - One could likely run this code without installing all packages in `requirements.txt` by simply installing:
     - numpy, pandas, matplotlib, scikit-learn
     - xgboost
