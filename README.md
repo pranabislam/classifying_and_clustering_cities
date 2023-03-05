@@ -66,6 +66,10 @@
 #### Unsupervised Metrics:
 - Much of the standard ML metrics to evaluate a clustering mostly fall short. Other clustering algorithms would in theory achieve better silhouette scores due to them optimizing for it directly or indirectly. I argue that the clustering process I present is a **simplified but effective** way that mimics fundamental structures of MSAs. I am **proposing a structure** as opposed to solving for one as ML models generally do. Thus, evaluation was not heavily focused on standard unsupervised ML metrics. The clustering visualizations and spot checks show how an analyst can easily interpret and use these clusterings.
 
+# Result Visualization
+![image](https://user-images.githubusercontent.com/8062198/222991884-e6f20aac-6d17-48de-8075-d6cda517aa71.png)
+![image](https://user-images.githubusercontent.com/8062198/222991891-b93d22e5-0b78-4626-9f8b-6ef08723dc4a.png)
+
 
 # References:
 - https://geoffboeing.com/2014/08/clustering-to-reduce-spatial-data-set-size/
